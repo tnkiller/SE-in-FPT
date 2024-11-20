@@ -1,0 +1,7 @@
+F001,Avengers: Endgame,Marvel Studios,26/04/2019,LONG,HD
+F002,Jurassic World: Dominion,Colin Trevorrow,10/06/2022,LONG,PL
+F003,Top Gun: Maverick,Joseph Kosinski,27/05/2022,LONG,HD
+F004,The Batman,Matt Reeves,04/03/2022,LONG,HD
+F005,Dune,Denis Villeneuve,22/10/2021,LONG,KHVT
+F006,Shang-Chi and the Legend of the Ten Rings,Destin Daniel Cretton,03/09/2021,LONG,HD
+F007,Spirited Away,Hayao Miyazaki,20/07/2001,SHORT,FA

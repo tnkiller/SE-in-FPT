@@ -1,0 +1,10 @@
+F001,SC001,15/02/2024,Afternoon,P102,Standar: 50000 - Couple :120000 - Vip : 60000
+F002,SC002,22/06/2023,Evening,P102,Standar: 50000 - Couple :120000 - Vip : 60000
+F003,SC003,05/08/2023,Midnight,P103,Standar: 50000 - Couple :120000 - Vip : 60000
+F004,SC004,18/11/2023,Afternoon,P104,Standar: 50000 - Couple :120000 - Vip : 60000
+F005,SC005,01/02/2024,Evening,P105,Standar: 50000 - Couple :120000 - Vip : 60000
+F004,SC006,14/03/2024,Midnight,P106,Standar: 50000 - Couple :120000 - Vip : 60000
+F003,SC007,30/05/2023,Afternoon,P101,Standar: 50000 - Couple :120000 - Vip : 60000
+F002,SC008,18/12/2024,Afternoon,P006,Standar: 50000 - Couple :120000 - Vip : 60000
+F002,SC009,12/12/1212,Morning,P004,Standar: 50000 - Couple :120000 - Vip : 60000
+F003,SC100,10/10/4545,morning,P001,Standar: 50000 - Couple :120000 - Vip : 60000

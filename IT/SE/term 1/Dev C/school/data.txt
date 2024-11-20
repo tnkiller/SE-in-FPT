@@ -1,0 +1,2 @@
+Nguyen Van A;18;SE;9.1
+Tran Thi B;17;MAE;10.0

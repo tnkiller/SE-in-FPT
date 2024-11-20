@@ -1,0 +1,4 @@
+vinhh,vinh123,Huynh,Vinh,vinh@gmail.com,0123456789,01/03/2000,5000
+nguyendu,nguyen123,Truong,Nguyen,nguyen@gmail.com,0987654321,15/07/1995,4500
+manhvinh,manh123,Hoang,Manh,manh@gmail.com,0456789012,22/11/1992,6000
+vaidai,dai123,Nguyen,Dai,dai@gmail.com,0789012345,08/04/1985,7000
